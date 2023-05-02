@@ -2,8 +2,6 @@
 
 Welcome to the `4koma Grid2Gif` script! This script allows you to create a GIF from a grid of images or split a GIF into individual frames to create a grid. Whether you want to generate a GIF from a 2x2, 3x3, or 4x4 grid of images or extract frames from a GIF and arrange them into a grid, this script has you covered.
 
-![Example GIF](img/example.gif)
-
 ## Features
 
 - Split a GIF into frames and arrange them into a grid, the grid will automatically resize to 512x512.
